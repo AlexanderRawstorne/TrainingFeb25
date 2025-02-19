@@ -1,0 +1,10 @@
+default: hello_world
+build_dir: C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr
+domains:
+  - name: hello_world
+    build_dir: C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/hello_world
+  - name: vpr_launcher
+    build_dir: C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/vpr_launcher
+flash_order:
+  - hello_world
+  - vpr_launcher

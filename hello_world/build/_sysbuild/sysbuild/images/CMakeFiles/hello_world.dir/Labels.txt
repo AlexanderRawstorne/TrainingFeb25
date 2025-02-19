@@ -1,0 +1,13 @@
+# Target labels
+ hello_world
+# Source files and their labels
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/CMakeFiles/hello_world
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/CMakeFiles/hello_world.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/CMakeFiles/hello_world-complete.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-build.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-configure.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-download.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-install.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-mkdir.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-patch.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-update.rule

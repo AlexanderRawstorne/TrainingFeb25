@@ -1,0 +1,26 @@
+app:
+  address: 0x165000
+  end_address: 0x17d000
+  region: flash_primary
+  size: 0x18000
+sram_primary:
+  address: 0x20028000
+  end_address: 0x20040000
+  region: sram_primary
+  size: 0x18000
+vpr_launcher:
+  address: 0x0
+  end_address: 0x165000
+  placement:
+    before:
+    - app
+  region: flash_primary
+  size: 0x165000
+vpr_launcher_sram:
+  address: 0x20000000
+  end_address: 0x20028000
+  placement:
+    before:
+    - app
+  region: sram_primary
+  size: 0x28000

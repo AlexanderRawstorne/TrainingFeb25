@@ -1,0 +1,13 @@
+# Target labels
+ vpr_launcher
+# Source files and their labels
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/CMakeFiles/vpr_launcher
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/CMakeFiles/vpr_launcher.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/CMakeFiles/vpr_launcher-complete.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-build.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-configure.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-download.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-install.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-mkdir.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-patch.rule
+C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/soc/vpr_launcher-prefix/src/vpr_launcher-stamp/vpr_launcher-update.rule

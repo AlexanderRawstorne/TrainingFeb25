@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/CMakeFiles/hello_world"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/CMakeFiles/hello_world.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/CMakeFiles/hello_world-complete.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-build.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-configure.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-download.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-install.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-mkdir.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-patch.rule"
+		},
+		{
+			"file" : "C:/Work/Training/RutronikFAE13Feb25/29x/hello_world/build_flpr/_sysbuild/sysbuild/images/hello_world-prefix/src/hello_world-stamp/hello_world-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_world"
+		],
+		"name" : "hello_world"
+	}
+}

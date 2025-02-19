@@ -1,0 +1,7 @@
+vpr_launcher:
+  placement: {before: app}
+  size: 0x165000
+vpr_launcher_sram:
+  region: sram_primary
+  placement: {before: app}
+  size: 0x28000

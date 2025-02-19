@@ -1,0 +1,16 @@
+{
+    "family": "NRF54L_FAMILY",
+    "operations": [
+        {
+            "operation": {
+                "type": "program",
+                "firmware": {
+                    "file": "C:\\Work\\Training\\RutronikFAE13Feb25\\29x\\hello_world\\build_flpr\\merged.hex"
+                },
+                "chip_erase_mode": "ERASE_PAGES",
+                "verify": "VERIFY_READ"
+            },
+            "operationId": "1"
+        }
+    ]
+}

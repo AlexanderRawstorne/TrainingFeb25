@@ -1,0 +1,8 @@
+menu "Workshop"
+    config MY_MESSAGE
+    string "Custom String"
+    default "Hello World Custom"
+endmenu
+menu "Zephyr Kernal"
+    source "Kconfig.zephyr"
+endmenu
