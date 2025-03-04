@@ -1,6 +1,8 @@
 # TrainingFeb25
  nRF54L15 Traning February2025
+ 
  All examples built using NCS 2.9.0
+ 
  FAE_Workshop.pptx - Instructions on how to create the examples.
  1. DTM         - This is the Direct Test Mode Running on the nRF54L15-DK
  2. Blinky      - OLED 128 x 64 display example running on 54L15 
